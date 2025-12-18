@@ -2,12 +2,6 @@
 
 🚀 Junior Full Stack Developer | Java, Spring Boot, React | 10+ years industrial expertise turned into clean code
 
-<img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="100px">  <!-- Coding GIF -->
-Turning industrial grit into pragmatic web apps like **Timeline Manager** ⚡ Passionate about sound design, motors, woodworking & sports.
-
-![Wave](https://media.giphy.com/media/3o7aDgf124IgCtX92I/giphy.gif)  <!-- Hello wave GIF -->🚀 Junior Full Stack Developer | Java, Spring Boot, React | 10+ years industrial expertise turned into clean code
-
-<img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="100px">  <!-- Coding GIF -->
 Turning industrial grit into pragmatic web apps like **Timeline Manager** ⚡ Passionate about sound design, motors, woodworking & sports.
 
 ![Wave](https://media.giphy.com/media/3o7aDgf124IgCtX92I/giphy.gif)  <!-- Hello wave GIF -->
