@@ -27,7 +27,7 @@
 
 ### 🎸 <span style="color:#00D4AA">Passions</span>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/gifs/Parrots.gif" width="60px" /> 
-**Sound Design** (Ableton Live 🎹) | **Motors** 🏎️ | **Woodworking** 🪵 | **Sports** 🏋️‍♂️
+**Sound Design** (Ableton Live 🎹)  |  **Motors** 🏎️  |  **Woodworking** 🪵  |  **Sports** 🏋️‍♂️
 
 ### 📫 <span style="color:#00D4AA">Connect</span>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-braghi-1991-pc)
