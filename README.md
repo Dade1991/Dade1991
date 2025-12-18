@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Dade1991/Dade1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Junior Full Stack Developer | Java, Spring Boot, React | 10+ years industrial expertise turned into clean code
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="100px">  <!-- Coding GIF -->
+Turning industrial grit into pragmatic web apps like **Timeline Manager** ⚡ Passionate about sound design, motors, woodworking & sports.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Wave](https://media.giphy.com/media/3o7aDgf124IgCtX92I/giphy.gif)  <!-- Hello wave GIF -->🚀 Junior Full Stack Developer | Java, Spring Boot, React | 10+ years industrial expertise turned into clean code
+
+<img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="100px">  <!-- Coding GIF -->
+Turning industrial grit into pragmatic web apps like **Timeline Manager** ⚡ Passionate about sound design, motors, woodworking & sports.
+
+![Wave](https://media.giphy.com/media/3o7aDgf124IgCtX92I/giphy.gif)  <!-- Hello wave GIF -->
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/gifs/Parrots.gif" width="80px"> <!-- Fun GIF for hobbies -->
+
+🎸 Sound design with Ableton Live (guitar, piano, synth)
+🏎️ Motors & racing enthusiast
+🪵 Woodworking crafts
+🏋🏻‍♀️ Constant sports training
+📫 Reach me: LinkedIn_ www.linkedin.com/in/davide-braghi-1991-pc | Email: davidebraghi1991@gmail.com or dade91@msn.com
