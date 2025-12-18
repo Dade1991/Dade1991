@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Davide Braghi! <br>
+
 🚀 Junior Full Stack Developer | Java, Spring Boot, React | 10+ years industrial expertise turned into clean code
 
 Turning industrial grit into pragmatic web apps like **Timeline Manager** ⚡ Passionate about sound design, motors, woodworking & sports.
