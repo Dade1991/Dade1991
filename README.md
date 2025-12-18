@@ -22,9 +22,6 @@
 </tr>
 </table>
 
-### 🔥 <span style="color:#00D4AA">Currently Building</span>
-[![Timeline Manager](https://github-readme-stats.vercel.app/api/pin/?username=Dade1991&repo=TimelineManager&theme=radical&bg_color=0D1117&title_color=00D4AA&icon_color=61DAFB)](https://github.com/Dade1991/TimelineManager)
-
 ### 🎸 <span style="color:#00D4AA">Passions</span>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/gifs/Parrots.gif" width="60px" /> 
 **Sound Design** (Ableton Live 🎹)  |  **Motors** 🏎️  |  **Woodworking** 🪵  |  **Sports** 🏋️‍♂️
